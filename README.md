@@ -7,6 +7,7 @@ The data set used in this project is derived from VGChartz, covering video game 
 
 **Data Source**: VGChartz
 **Data Set**: Historical sales of video games
+
 ## Research Questions
 The key questions addressed in this analysis include:
 
@@ -15,7 +16,7 @@ The key questions addressed in this analysis include:
 **Have any games decreased or increased in popularity over time?**
 **How have their sales figures varied between geographic regions over time?**
 ## Cleaning Procedures
-In Exercise 6.1, the data was cleaned using Excel to ensure accuracy and usability for analysis. The following steps were taken:
+The data was cleaned using Excel to ensure accuracy and usability for analysis. The following steps were taken:
 
 **Handling Missing Data**: Missing values were identified and managed, either by filling in with appropriate values or by excluding the data points where necessary.
 **Standardizing Formats**: Date and numeric fields were formatted consistently across the dataset to facilitate accurate analysis.
