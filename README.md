@@ -5,22 +5,22 @@ This project is an in-depth data analysis aimed at understanding trends and patt
 ## Data Source
 The data set used in this project is derived from VGChartz, covering video game sales data from 1980 to 2016. The data includes information on various platforms, genres, and publishing studios, with sales figures tracked for games that have sold more than 10,000 copies. The numbers represent units sold in millions.
 
-## Data Source: VGChartz
-Data Set: Historical sales of video games
-Research Questions
+**Data Source**: VGChartz
+**Data Set**: Historical sales of video games
+## Research Questions
 The key questions addressed in this analysis include:
 
-## Are certain types of games more popular than others?
-What other publishers will likely be the main competitors in certain markets?
-Have any games decreased or increased in popularity over time?
-How have their sales figures varied between geographic regions over time?
+**Are certain types of games more popular than others?**
+**What other publishers will likely be the main competitors in certain markets?**
+**Have any games decreased or increased in popularity over time?**
+**How have their sales figures varied between geographic regions over time?**
 ## Cleaning Procedures
 In Exercise 6.1, the data was cleaned using Excel to ensure accuracy and usability for analysis. The following steps were taken:
 
-Handling Missing Data: Missing values were identified and managed, either by filling in with appropriate values or by excluding the data points where necessary.
-Standardizing Formats: Date and numeric fields were formatted consistently across the dataset to facilitate accurate analysis.
-Removing Duplicates: Duplicate entries were identified and removed using Excel's built-in tools to ensure the dataset's integrity.
-Correcting Data Types: Data types were reviewed and corrected to ensure proper categorization and numerical operations within Excel.
+**Handling Missing Data**: Missing values were identified and managed, either by filling in with appropriate values or by excluding the data points where necessary.
+**Standardizing Formats**: Date and numeric fields were formatted consistently across the dataset to facilitate accurate analysis.
+**Removing Duplicates**: Duplicate entries were identified and removed using Excel's built-in tools to ensure the dataset's integrity.
+**Correcting Data Types**: Data types were reviewed and corrected to ensure proper categorization and numerical operations within Excel.
 ## Analysis and Insights
 The analysis was conducted entirely within Excel, building towards a final descriptive analysis that answers the key research questions:
 
