@@ -32,6 +32,6 @@ The analysis was conducted entirely within Excel, building towards a final descr
 ## Project Structure
 - /data: Contains the raw and cleaned Excel files used in the analysis.
 - /visualizations: Folder containing the Excel charts and graphs generated from the analysis.
-README.md: Overview of the project, including objectives, data source, research questions, and key findings.
+- README.md: Overview of the project, including objectives, data source, research questions, and key findings.
 ## Conclusion
 This project, conducted entirely within Excel, provides valuable insights into the video game industry, helping GameCo understand market trends and potential areas for growth. The analysis is designed to be straightforward and replicable, making it accessible for similar projects in other domains.
