@@ -5,8 +5,8 @@ This project is an in-depth data analysis aimed at understanding trends and patt
 ## Data Source
 The data set used in this project is derived from VGChartz, covering video game sales data from 1980 to 2016. The data includes information on various platforms, genres, and publishing studios, with sales figures tracked for games that have sold more than 10,000 copies. The numbers represent units sold in millions.
 
-**Data Source**: VGChartz
-**Data Set**: Historical sales of video games
+**Data Source**: VGChartz.
+**Data Set**: Historical sales of video games.
 
 ## Research Questions
 The key questions addressed in this analysis include:
