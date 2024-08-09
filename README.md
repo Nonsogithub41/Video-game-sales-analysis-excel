@@ -1,4 +1,4 @@
--# Video-game-sales-analysis-excel
+# Video-game-sales-analysis-excel
 ## Project Overview
 This project is an in-depth data analysis aimed at understanding trends and patterns within the video game industry. As an analyst for GameCo, a new video game company, the goal is to leverage historical sales data to provide insights that can inform the development of new games. The analysis focuses on various aspects such as game popularity across genres, competition analysis, regional sales trends, and changes in game popularity over time.
 
