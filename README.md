@@ -1,4 +1,4 @@
-# Video-game-sales-analysis-excel
+-# Video-game-sales-analysis-excel
 ## Project Overview
 This project is an in-depth data analysis aimed at understanding trends and patterns within the video game industry. As an analyst for GameCo, a new video game company, the goal is to leverage historical sales data to provide insights that can inform the development of new games. The analysis focuses on various aspects such as game popularity across genres, competition analysis, regional sales trends, and changes in game popularity over time.
 
@@ -30,8 +30,8 @@ The analysis was conducted entirely within Excel, building towards a final descr
 - Competitor Analysis: Competitors were analyzed by summarizing sales data across different publishers and regions.
 - Regional Analysis: Sales trends across different geographic regions were examined to identify market trends and shifts over time.
 ## Project Structure
-/data: Contains the raw and cleaned Excel files used in the analysis.
-/visualizations: Folder containing the Excel charts and graphs generated from the analysis.
+- /data: Contains the raw and cleaned Excel files used in the analysis.
+- /visualizations: Folder containing the Excel charts and graphs generated from the analysis.
 README.md: Overview of the project, including objectives, data source, research questions, and key findings.
 ## Conclusion
 This project, conducted entirely within Excel, provides valuable insights into the video game industry, helping GameCo understand market trends and potential areas for growth. The analysis is designed to be straightforward and replicable, making it accessible for similar projects in other domains.
